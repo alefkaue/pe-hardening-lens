@@ -1,0 +1,1 @@
+{"scope":"Offline PE metadata inspection; no execution, signature verification or exploitability test","bits":64,"machine":34404,"input_bytes":1024,"dynamic_base":true,"nx_compatible":true,"cfg_declared":false,"certificate_directory_present":false,"signature_verified":false,"sections":[{"name":".data","raw_offset":512,"raw_size":512}],"findings":[]}

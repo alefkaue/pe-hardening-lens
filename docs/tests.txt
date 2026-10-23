@@ -1,0 +1,18 @@
+PASS synthetic PE32+ flags parsed
+PASS DOS signature required
+PASS PE offset overflow rejected
+PASS section budget enforced
+PASS short optional header rejected
+PASS directory count budget enforced
+PASS section raw overflow rejected
+PASS DEP flag absence is explicit
+PASS ASLR flag absence
+PASS write-execute section review
+PASS stripped relocation inconsistency
+PASS unbacked relocations remain unconfirmed
+PASS certificate uses file offset not RVA
+PASS certificate range cannot exceed file
+PASS section names JSON escaped
+PASS all prefixes bounded
+PASS single byte mutation smoke
+17/17 passed
