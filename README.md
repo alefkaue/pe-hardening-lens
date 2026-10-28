@@ -1,7 +1,5 @@
 # PE Hardening Lens
 
-**Portfolio area:** [Cybersecurity](https://github.com/alefkaue#cybersecurity) · **Context:** Personal project
-
 **C++ · offline defensive analysis · original personal portfolio project**
 
 Review declared PE hardening flags, directory ranges and section permissions without executing the supplied file.
